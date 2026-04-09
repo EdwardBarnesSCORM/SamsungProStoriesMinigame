@@ -33,11 +33,12 @@
 				<adlcp:location>metadata.xml</adlcp:location> 
 			</metadata>
 			
-			<file href="assets/TOC_icons/collapseIcon.png"/>
+			<file href="ar/81159.mp3"/>
 		    <file href="index_scorm.html"/>
 			<file href="scormdriver.js"/>
 			<file href="browsersniff.js"/>
 			
+<file href="assets/TOC_icons/collapseIcon.png"/> 
 <file href="assets/TOC_icons/expandIcon.png"/> 
 <file href="assets/TOC_icons/photo.png"/> 
 <file href="assets/css/CPLibraryAll.css"/> 
